@@ -1,6 +1,6 @@
 variable "GOOGLE_CREDENTIALS" {
   description = "value of GOOGLE_CREDENTIALS"
-  type = "string"
+  type = string
 }
 
 variable "project_id" {
